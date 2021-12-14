@@ -1,6 +1,13 @@
 # Playground
 
-> My playground for learning [NextJS](https://nextjs.org/).
+> My place for playing around with [Next.js](https://nextjs.org/).
+
+## Used Technologies
+
+- Typescript
+- React
+- Next.js
+- Prisma
 
 ## License
 
